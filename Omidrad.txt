@@ -7,15 +7,6 @@
    "server_port": 22,
    "user": "lionssh_vilsdps",
    "password": "neda1403"
-{
- "outbounds": [
-  {
-    "type": "ssh",
-   "tag": "Neda SSH 2",
-   "server": "68.183.78.54",
-   "server_port": 22,
-   "user": " lionssh_ubeurzq",
-   "password": "ghafer1403"
   }
  ]
 }
