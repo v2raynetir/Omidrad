@@ -1,1 +1,19 @@
+{
+  "type": "ssh",
+  "tag": "Neda",
 
+  "server": "68.183.78.54",
+  "server_port": 22,
+  "user": "lionssh_ubeurzq",
+  "password": "ghafer1403",
+  "private_key": "",
+  "private_key_path": "$HOME/.ssh/id_rsa",
+  "private_key_passphrase": "",
+  "host_key": [
+    "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdH..."
+  ],
+  "host_key_algorithms": [],
+  "client_version": "SSH-2.0-OpenSSH_7.4p1",
+
+  ... // Dial Fields
+}
