@@ -7,7 +7,6 @@
    "server_port": 22,
    "user": "lionssh_vilsdps",
    "password": "neda1403"
-  }
 {
  "outbounds": [
   {
