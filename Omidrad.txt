@@ -1,1 +1,1 @@
-{"sshConfigType":0,"remarks":"Fateme_sng | @V2RayNetIR","sshHost":"68.183.78.54","sshPort":22,"sshUsername":"lionssh_Fatemesng","sshPassword":"Fatemesng1403","sni":"","tlsVersion":771,"httpProxy":"","authenticateProxy":false,"proxyUsername":"","proxyPassword":"","payload":"","dnsTTMode":"udp","dnsServer":"","nameserver":"","publicKey":"","udpgwPort":7200,"udpgwTransparentDNS":true,"keyword":"","sshHostKey":""}
+68.183.78.54:22@lion_Fatemesng:Fatemesng1403
