@@ -10,6 +10,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk9taWQgNSAoOiIsDQogICJhZGQiOiAiMTkzLjMy
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk9taWQgNiAoOiIsDQogICJhZGQiOiAiMTkzLjIwMS4xODguMTEwIiwNCiAgInBvcnQiOiAiMTAwMDAiLA0KICAiaWQiOiAiZmNkMWRkYTgtNmE2Mi0xMWYwLTg5OWQtMDAxNjNjMzZhZDY0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvdnBuamFudGl0IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
-vless://efe7b49a-6a63-11f0-9b66-c34b3e490fee@83.219.250.108:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Omid%207%20%28%3A
+vless://512f1682-700c-11f0-af33-dffbb2c50890@83.219.250.108:10004/?type=ws&encryption=none&flow=&path=%2Fvpnjantit#omid7
 
 vless://f6df0798-6a64-11f0-89ac-97a341d7fb9d@185.67.125.141:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Omid%208%20%28%3A
